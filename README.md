@@ -80,7 +80,7 @@ Contributions to improve the Radio Playlist Generator are welcome. Please submit
 
 MIT License
 
-Copyright (c) [2024] [Scott Saunders]
+Copyright (c) 2024 Scott Saunders
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
