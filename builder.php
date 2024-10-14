@@ -2,7 +2,7 @@
 session_start();
 
 // Set your password here
-$correct_password = "dethlord";
+$correct_password = "Pa$$word.1!";
 
 // Check if user is logged in
 $is_logged_in = isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true;
